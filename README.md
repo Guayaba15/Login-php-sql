@@ -1,2 +1,2 @@
 # Login-php-sql
-and SweetAlert
+Code by David Dávila 
